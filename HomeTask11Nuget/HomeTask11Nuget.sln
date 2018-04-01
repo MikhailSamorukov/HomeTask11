@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetLibrary", "NugetLibrary\NugetLibrary.csproj", "{0AD616DD-1836-4111-A956-DD60C9153D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetServer", "NugetServer\NugetServer.csproj", "{C4322935-4111-42CA-A1E9-1FE05A7C6490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetClient", "NugetClient\NugetClient.csproj", "{C205E266-28F4-4FC0-A965-9493145AD868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD616DD-1836-4111-A956-DD60C9153D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD616DD-1836-4111-A956-DD60C9153D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD616DD-1836-4111-A956-DD60C9153D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD616DD-1836-4111-A956-DD60C9153D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4322935-4111-42CA-A1E9-1FE05A7C6490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4322935-4111-42CA-A1E9-1FE05A7C6490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4322935-4111-42CA-A1E9-1FE05A7C6490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4322935-4111-42CA-A1E9-1FE05A7C6490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C205E266-28F4-4FC0-A965-9493145AD868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C205E266-28F4-4FC0-A965-9493145AD868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C205E266-28F4-4FC0-A965-9493145AD868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C205E266-28F4-4FC0-A965-9493145AD868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

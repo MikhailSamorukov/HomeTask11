@@ -1,0 +1,1 @@
+nuget pack NugetLibrary.csproj -Properties Configuration=Release -Build -OutputDirectory .\Bin

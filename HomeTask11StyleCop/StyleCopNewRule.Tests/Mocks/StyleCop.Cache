@@ -1,0 +1,46 @@
+<stylecopresultscache>
+  <version>12</version>
+  <sourcecode name="RightController.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017.07.29 10:33:16.000</styleCop>
+      <settingsFile>2018.03.31 20:30:41.163</settingsFile>
+      <sourceFile>2018.03.31 22:25:35.672</sourceFile>
+      <parser>2017.07.29 10:33:16.000</parser>
+      <StyleCopNewRule.MyOwnCustomAnalyzer>2017.07.29 10:33:16.000</StyleCopNewRule.MyOwnCustomAnalyzer>
+      <StyleCopNewRule.MyOwnCustomAnalyzer.FilesHashCode>0</StyleCopNewRule.MyOwnCustomAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="WrongInheritanceController.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017.07.29 10:33:16.000</styleCop>
+      <settingsFile>2018.03.31 20:30:41.163</settingsFile>
+      <sourceFile>2018.03.31 22:25:33.578</sourceFile>
+      <parser>2017.07.29 10:33:16.000</parser>
+      <StyleCopNewRule.MyOwnCustomAnalyzer>2017.07.29 10:33:16.000</StyleCopNewRule.MyOwnCustomAnalyzer>
+      <StyleCopNewRule.MyOwnCustomAnalyzer.FilesHashCode>0</StyleCopNewRule.MyOwnCustomAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <project key="1">
+    <configuration>
+    </configuration>
+  </project>
+  <sourcecode name="WrongController.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017.07.29 10:33:16.000</styleCop>
+      <settingsFile>2018.03.31 20:30:41.163</settingsFile>
+      <sourceFile>2018.03.31 22:25:20.664</sourceFile>
+      <parser>2017.07.29 10:33:16.000</parser>
+      <StyleCopNewRule.MyOwnCustomAnalyzer>2017.07.29 10:33:16.000</StyleCopNewRule.MyOwnCustomAnalyzer>
+      <StyleCopNewRule.MyOwnCustomAnalyzer.FilesHashCode>0</StyleCopNewRule.MyOwnCustomAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCopNewRule.MyOwnCustomAnalyzer" rule="MyOwnCustomRule" ruleCheckId="HE2222">
+        <context>Catch block Should be present.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>

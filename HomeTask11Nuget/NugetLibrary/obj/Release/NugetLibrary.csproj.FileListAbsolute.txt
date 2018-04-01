@@ -1,0 +1,7 @@
+C:\Users\Михаил\Documents\visual studio 2017\Projects\HomeTask11Nuget\NugetLibrary\bin\Release\NugetLibrary.dll
+C:\Users\Михаил\Documents\visual studio 2017\Projects\HomeTask11Nuget\NugetLibrary\bin\Release\NugetLibrary.pdb
+C:\Users\Михаил\Documents\visual studio 2017\Projects\HomeTask11Nuget\NugetLibrary\bin\Release\log4net.dll
+C:\Users\Михаил\Documents\visual studio 2017\Projects\HomeTask11Nuget\NugetLibrary\bin\Release\log4net.xml
+C:\Users\Михаил\Documents\visual studio 2017\Projects\HomeTask11Nuget\NugetLibrary\obj\Release\NugetLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\visual studio 2017\Projects\HomeTask11Nuget\NugetLibrary\obj\Release\NugetLibrary.dll
+C:\Users\Михаил\Documents\visual studio 2017\Projects\HomeTask11Nuget\NugetLibrary\obj\Release\NugetLibrary.pdb

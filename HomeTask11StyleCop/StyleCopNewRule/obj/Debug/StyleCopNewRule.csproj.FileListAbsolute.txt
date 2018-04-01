@@ -1,0 +1,8 @@
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\HomeTask11\StyleCopNewRule\bin\Debug\StyleCopNewRule.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\HomeTask11\StyleCopNewRule\bin\Debug\StyleCopNewRule.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\HomeTask11\StyleCopNewRule\bin\Debug\StyleCop.CSharp.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\HomeTask11\StyleCopNewRule\bin\Debug\StyleCop.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\HomeTask11\StyleCopNewRule\bin\Debug\StyleCop.xml
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\HomeTask11\StyleCopNewRule\bin\Debug\StyleCop.CSharp.xml
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\HomeTask11\StyleCopNewRule\obj\Debug\StyleCopNewRule.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\HomeTask11\StyleCopNewRule\obj\Debug\StyleCopNewRule.pdb
